@@ -1,5 +1,5 @@
 ======================
-期望最大算法 (Expectation Maximization,EM) 算法求解高斯混合模型 (Gauss Mixed Model, GMM)
+EM 算法求解 GMM 模型
 ======================
 
 The code is for the blog:http://www.algorithmdog.com/em算法的另一种引入
